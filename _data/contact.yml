@@ -3,6 +3,10 @@
 -
   type: github
   icon: 'fab fa-github'
+-
+  type: Tistory
+  icon: 'fa-solid fa-ghost'
+  url: 'https://brightblueskies.tistory.com'
 
 #  type: twitter
 #  icon: 'fab fa-twitter'
